@@ -1,0 +1,30 @@
+.container {
+  background-color: rgb(234, 152, 236);
+  display: flex;
+  justify-content: space-between;
+  border: solid black 1px;
+}
+
+.con {
+  height: 600px;
+  width: 600px;
+  display: flex;
+  background-color: burlywood;
+  box-sizing: border-box;
+  border: solid black 1px;
+}
+
+.container-2 {
+  flex-direction: column;
+  padding: 20px;
+}
+
+.item-1 {
+  width: 100px;
+  border: solid black 1px;
+}
+
+.item-2 {
+  height: 100px;
+  border: solid black 1px;
+}

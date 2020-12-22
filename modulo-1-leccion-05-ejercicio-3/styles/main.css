@@ -1,0 +1,10 @@
+.header {
+  background-color: purple;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+}
+.main-container {
+  position: relative;
+  top: 20px;
+}

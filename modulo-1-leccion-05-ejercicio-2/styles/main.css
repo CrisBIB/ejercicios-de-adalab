@@ -1,0 +1,32 @@
+.divPadre {
+  background-color: green;
+  position: relative;
+}
+
+.div1,
+.div2,
+.div3 {
+  height: 300px;
+  font-weight: 300px;
+  border: solid 1px black;
+  margin: 40px;
+  padding: 30px;
+  position: relative;
+}
+
+.div1 {
+  background-color: yellow;
+  left: 100px;
+  top: 50px;
+}
+
+.div2 {
+  background-color: violet;
+  right: 150px;
+  bottom: 320px;
+}
+.div3 {
+  background-color: turquoise;
+  left: 180px;
+  bottom: 240px;
+}

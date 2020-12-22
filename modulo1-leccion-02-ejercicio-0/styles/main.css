@@ -1,0 +1,29 @@
+.header-container {
+  display: flex;
+  width: 100%;
+  border: solid black 2px;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 200px;
+  border: solid black 2px;
+}
+
+.titulo {
+  margin-bottom: 10px;
+  margin-top: 30px;
+  border: solid black 2px;
+  width: 200px;
+  flex-grow: 1;
+  text-align: center;
+}
+
+.conceptos {
+  margin-bottom: -10px;
+}
+
+.e-en-linea {
+  display: flex;
+  box-sizing: border-box;
+}
