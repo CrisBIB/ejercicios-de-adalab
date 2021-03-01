@@ -1,0 +1,38 @@
+* {
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin: 0;
+}
+.container {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 20% 60% 20%;
+}
+.fil-1,
+.fil-3 {
+  height: 20vh;
+  grid-column: span 12;
+  display: flex;
+}
+.fil-2 {
+  height: 60vh;
+  display: flex;
+}
+.header {
+  background: pink;
+}
+.menu {
+  background: purple;
+  grid-column: span 4;
+}
+.content {
+  background: coral;
+  grid-column: span 8;
+}
+.footer {
+  background: cyan;
+}

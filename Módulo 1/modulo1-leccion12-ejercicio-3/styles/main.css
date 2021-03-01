@@ -1,0 +1,16 @@
+.box {
+  background: pink;
+  height: 50px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  border: solid 5px rgba(0, 0, 0, 0.5);
+  transition: 2s;
+}
+.box:hover {
+}
+.popup {
+  color: powderblue;
+}

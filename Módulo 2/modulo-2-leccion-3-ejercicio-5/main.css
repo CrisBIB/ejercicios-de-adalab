@@ -1,0 +1,15 @@
+ .success {
+     border-color: darkgreen;
+     background-color: darkseagreen;
+     color: darkgreen;
+ }
+ .error {
+    border-color: red;
+    background-color: rgb(235, 168, 168);
+    color: red;
+ }
+ .warning {
+    border-color: yellow;
+    background-color: rgb(216, 216, 181);
+    color: yellow;
+ }

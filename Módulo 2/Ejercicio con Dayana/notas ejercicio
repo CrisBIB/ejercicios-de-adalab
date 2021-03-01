@@ -1,0 +1,10 @@
+PASOS
+
+1. Crear un archivo HTML y uno de JS (ficheros proyecto). OK
+2. Añadir un form en el index.html con una laber, un input y un botón de enviar. OK
+3. Crear un elemento script en el html. OK
+4. Poner 'use strict'. OK
+5. Traer los elementos que necesite. En este caso, input con su valor, y el botón. A través de sus clases, así que tendré que creárselas. (A la vez, creo una constante de cad a uno)). OK
+6. Escribir un addEventListener sobre el botón, con un evento click. OK
+7. Crear una función nominal sin parámetros, que contenga un condicional y que me devuelva un mensaje dependiendo del valor que cada un usuario introduzca en el input.
+

@@ -1,0 +1,10 @@
+.js-button1,
+.js-button2 {
+  height: 20px;
+  width: 50px;
+  background-color: blueviolet;
+}
+
+.hidden {
+  display: none;
+}

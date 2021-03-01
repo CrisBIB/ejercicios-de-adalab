@@ -1,0 +1,21 @@
+* {
+  margin: 20px 20px;
+}
+
+.exercise {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.js-button {
+  color: white;
+  background-color: purple;
+  width: 100px;
+  height: 30px;
+}
+
+#name {
+  width: 200px;
+  height: 30px;
+}
